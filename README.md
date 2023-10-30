@@ -10,7 +10,7 @@ Clone este repositório para o seu ambiente de desenvolvimento local
 
 ### 2. Iniciando o projeto
 
-Após clonar use o npm install para instalar as depedencias e inicie com npx expo start
+Após clonar use o npm install para instalar as dependencias e inicie com npx expo start
 
 ### 3. Visualizando o projeto
 
