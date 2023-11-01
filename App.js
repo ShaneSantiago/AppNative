@@ -8,7 +8,7 @@ import Login from "./src/screem/Login/Login";
 export default function App() {
   return (
     <NavigationContainer>
-      <Login />
+      <AppNavigator />
     </NavigationContainer>
   );
 }
